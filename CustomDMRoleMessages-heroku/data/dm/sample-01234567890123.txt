@@ -1,0 +1,22 @@
+This is a sample message - You may use this file for reference. Make sure each role's custom messages are stored in this same /data/dm directory with the corect filename.  The contents of this message would be sent as the body of an embed to the DM of the member.
+
+The file name must include the role_id
+
+**Quick reference**:
+The markdown syntax supported by Discord applies to this txt content as well since it's rendered by discord before being sent to the channel.
+Embed body text may include links (similar to Reddit)
+
+Italics - * *  | This is a *sample* sentence ("sample" would be italicized)
+Bold -  ** **  | This is a **sample** sentence ("sample" would be bold)
+Strikethrough - ~~ ~~ | This is a ~~sample~~ sentence ("sample" would have a strike through it's middle)
+Links - [The disply link text](https://some-link-to-somewhere.com) | [The display link text] would appear as a clickable link directed to https://some-link-to-somewhere.com
+
+
+**Emojis**:
+
+Native supported emojies can be added by using the :emoji_name: syntax | :thumbsup: would show the thumbsup emoji
+Custom guild emojies can also be used with the <:emoji_name:emoji_id> syntax | Find it easily by sending the emoji to a channel, but placing a \ in front of the icon before sending.  The resulting message can be copy/pasted into this txt file
+Custom guild animated emojies can also be used with the <a:emoji_name:emoji_id> syntax | Find it easily using the same method for custom guild emojies
+
+
+
